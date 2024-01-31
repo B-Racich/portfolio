@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4d0bf61b.css",
-    "main.js": "/portfolio/static/js/main.19342110.js",
-    "static/media/bg-image.png": "/portfolio/static/media/bg-image.5ce2ef01b4521b434b0f.png",
-    "static/media/logo2.svg": "/portfolio/static/media/logo2.06ddc4197f4c6b539cf7189a43cb2a27.svg",
-    "static/media/analysis.png": "/portfolio/static/media/analysis.37ccb49d92c1ff248e6e.png",
-    "static/media/stack.png": "/portfolio/static/media/stack.d38b2cb9985314cca71d.png",
-    "static/media/GitHub_Logo_White.png": "/portfolio/static/media/GitHub_Logo_White.6149aa5ccbc036755594.png",
-    "static/media/data.png": "/portfolio/static/media/data.09711f39cec176c31993.png",
-    "static/media/bug.png": "/portfolio/static/media/bug.e7fafe7aba19ac347a29.png",
-    "static/media/Father2.png": "/portfolio/static/media/Father2.f0bff8217fbb6058d307.png",
-    "static/media/Hamburger.svg": "/portfolio/static/media/Hamburger.884fe98b9ea385fd690715236ec96551.svg",
-    "index.html": "/portfolio/index.html",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.c5b0b1b4792c4adac01506428d371c41.svg",
-    "main.4d0bf61b.css.map": "/portfolio/static/css/main.4d0bf61b.css.map",
-    "main.19342110.js.map": "/portfolio/static/js/main.19342110.js.map"
+    "main.css": "./static/css/main.4d0bf61b.css",
+    "main.js": "./static/js/main.32f9b0e6.js",
+    "static/media/bg-image.png": "./static/media/bg-image.5ce2ef01b4521b434b0f.png",
+    "static/media/logo2.svg": "./static/media/logo2.06ddc4197f4c6b539cf7189a43cb2a27.svg",
+    "static/media/analysis.png": "./static/media/analysis.37ccb49d92c1ff248e6e.png",
+    "static/media/stack.png": "./static/media/stack.d38b2cb9985314cca71d.png",
+    "static/media/GitHub_Logo_White.png": "./static/media/GitHub_Logo_White.6149aa5ccbc036755594.png",
+    "static/media/data.png": "./static/media/data.09711f39cec176c31993.png",
+    "static/media/bug.png": "./static/media/bug.e7fafe7aba19ac347a29.png",
+    "static/media/Hamburger.svg": "./static/media/Hamburger.884fe98b9ea385fd690715236ec96551.svg",
+    "index.html": "./index.html",
+    "static/media/linkedin.svg": "./static/media/linkedin.c5b0b1b4792c4adac01506428d371c41.svg",
+    "main.4d0bf61b.css.map": "./static/css/main.4d0bf61b.css.map",
+    "main.32f9b0e6.js.map": "./static/js/main.32f9b0e6.js.map"
   },
   "entrypoints": [
     "static/css/main.4d0bf61b.css",
-    "static/js/main.19342110.js"
+    "static/js/main.32f9b0e6.js"
   ]
 }
